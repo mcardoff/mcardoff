@@ -1,2 +1,17 @@
 #+TITLE:Michael Cardiff
 #+AUTHOR:Michael Cardiff
+* Me
+Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doing research in condensed matter and particle physics. For a look at my research, you can check out my [[https://github.com/mcardoff/Research][research repo]].
+* Skills
+- Python
+- C/C++
+- Cuda C
+- Mathematica (Wolfram Language)
+- Haskell
+- \LaTeX
+- Emacs/elisp
+* Contact/Social Media
+- Email me at: mcardiff@hawk.iit.edu
+- Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
+
+
