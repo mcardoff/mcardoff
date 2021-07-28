@@ -1,5 +1,6 @@
 #+TITLE:Michael Cardiff
 #+AUTHOR:Michael Cardiff
+#+html: <p align="center"><img src="~/Pictues/Profile.jpg" /></p>
 * Me
 Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doing research in condensed matter and particle physics. For a look at my research, you can check out my [[https://github.com/mcardoff/Research][research repo]].
 * Skills
