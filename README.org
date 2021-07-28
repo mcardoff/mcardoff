@@ -12,6 +12,25 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
 - Haskell
 - LaTeX
 - Emacs/elisp
+* Relevant Courses
+** Physics
+- PHYS 123, 221, 223 :: General Physics 1, 2, and 3
+- PHYS 240 :: Computational Science
+- PHYS 300 :: Instrumentation Lab
+- PHYS 301 :: Mathematical Methods of Physics
+- PHYS 304 :: Thermodynamics & Statistical Physics
+- PHYS 308,309 :: Classical Mechanics I,II
+- PHYS 405,406 :: Fundamentals of Quantum Theory I,II
+- PHYS 413,414 :: Electromagnetism I,II
+- PHYS 485 :: Physics Colloquium
+- PHYS 502 :: Methods of Theoretical Physics II
+- PHYS 510 :: Quantum Theory II
+** Computer Science
+- CS 105 :: Intro to Computer Programming
+- CS 201 :: Accelerated Intro to Computer Programming
+- CS 330 :: Discrete Structures
+- CS 331 :: Data Structures & Algorithms
+- CS 340 :: Programming Paradigms & Patterns
 * Contact/Social Media
 - Email me at: mcardiff@hawk.iit.edu
 - Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
