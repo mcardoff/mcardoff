@@ -15,22 +15,70 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
 * Relevant Courses
 ** Physics
 - PHYS 123, 221, 223 :: General Physics 1, 2, and 3
+  - Intro to basic Vector & Calculus based physics
+  - Labs teaching basic circuit building and data taking techniques
 - PHYS 240 :: Computational Science
+  - Basic numerical methods using GNU Octave
 - PHYS 300 :: Instrumentation Lab
+  - More advanced circuit building
+  - Experience using Oscilloscope technology 
 - PHYS 301 :: Mathematical Methods of Physics
+  - Complex numbers algebra
+  - Basic linear algebra & matrix theory
+  - Fourier Series & Transform
+  - Special Functions
+  - Partial Differential Equations
 - PHYS 304 :: Thermodynamics & Statistical Physics
+  - Everything from basic laws of Thermodynamics to quantum statistical mechanics
+  - Book Used: Thermal Physics by Franz Mandl
 - PHYS 308,309 :: Classical Mechanics I,II
+  - Review of basic mechanics
+  - Lagrangian Formalism
+  - Hamiltonian Formalism
+  - Intro to chaos theory
+  - Numerical methods with Mathematica
+  - Book Used: Classical Mechanics by Taylor
 - PHYS 405,406 :: Fundamentals of Quantum Theory I,II
+  - Dirac Bra-Ket Formalism
+  - Multi-particle systems
+  - Time independent and dependent Perturbation theory
+  - The variational method and WKB approximation
+  - Book Used: Introduction to Quantum Mechanics by Griffiths
 - PHYS 413,414 :: Electromagnetism I,II
+  - Book Used: Introduction to Electrodynamics by Griffiths
 - PHYS 485 :: Physics Colloquium
+  - Weekly talks from visiting professors
+  - Reports would be required bi-weekly on certain talks
 - PHYS 502 :: Methods of Theoretical Physics II
+  - Finite and Continuous Group Theory
+  - Complex Analysis
+  - Books Used: Group Theory and Physics by S. Sternberg, Mathematical Methods for Physicists by Arfken, Weber, and Harris
 - PHYS 510 :: Quantum Theory II
+  - Advanced Quantum Mechanics
+  - Basic Field Theory
+  - Second Quantization Formalism
+  - Spinor Algebra & Group Theory
+  - Books Used: Modern Quantum Mechanics by Sakurai, Quantum Mechanics with Basic Field Theory by Desai
 ** Computer Science
 - CS 105 :: Intro to Computer Programming
+  - Basic Intro to Programming using C++
 - CS 201 :: Accelerated Intro to Computer Programming
+  - Intro to object oriented paradigm using Java as a basis
 - CS 330 :: Discrete Structures
+  - More Mathematically focused course on structures such as sets, graphs, etc.
+  - Basic Proof writing techniques
 - CS 331 :: Data Structures & Algorithms
+  - Programming data structures using Python as well as algorithm analysis
+  - Covered The following data structures:
+    - Array backed and Linked Lists
+    - Hashtable/Dictionary
+    - Stack/Queue
+    - Heap
+    - Binary Search Tree
+    - AVL Tree
 - CS 340 :: Programming Paradigms & Patterns
+  - Pure functional programming using Haskell
+  - Final project implementing an objective based search (knight's tour) and an adversarial search (nim)
 * Contact/Social Media
 - Email me at: mcardiff@hawk.iit.edu
 - Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
