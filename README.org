@@ -4,7 +4,7 @@
 #+html: <p align="center"><img src="https://komarev.com/ghpvc/?username=mcardoff" /></p>
 * Me
 Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doing research in condensed matter and particle physics. For a look at my research, you can check out my [[https://github.com/mcardoff/Research][research repo]].
-* Skills
+* Programming Languages
 - Python
 - C/C++
 - Cuda C
@@ -13,6 +13,26 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
 - LaTeX
 - Emacs/elisp
 * Relevant Courses
+** Computer Science
+- CS 105 :: Intro to Computer Programming
+  - Basic Intro to Programming using C++
+- CS 201 :: Accelerated Intro to Computer Programming
+  - Intro to object oriented paradigm using Java as a basis
+- CS 330 :: Discrete Structures
+  - More Mathematically focused course on structures such as sets, graphs, etc.
+  - Basic Proof writing techniques
+- CS 331 :: Data Structures & Algorithms
+  - Programming data structures using Python as well as algorithm analysis
+  - Covered The following data structures:
+    - Array backed and Linked Lists
+    - Hashtable/Dictionary
+    - Stack/Queue
+    - Heap
+    - Binary Search Tree
+    - AVL Tree
+- CS 340 :: Programming Paradigms & Patterns
+  - Pure functional programming using Haskell
+  - Final project implementing an objective based search (knight's tour) and an adversarial search (nim)
 ** Physics
 - PHYS 123, 221, 223 :: General Physics 1, 2, and 3
   - Intro to basic Vector & Calculus based physics
@@ -59,26 +79,6 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Second Quantization Formalism
   - Spinor Algebra & Group Theory
   - Books Used: Modern Quantum Mechanics by Sakurai, Quantum Mechanics with Basic Field Theory by Desai
-** Computer Science
-- CS 105 :: Intro to Computer Programming
-  - Basic Intro to Programming using C++
-- CS 201 :: Accelerated Intro to Computer Programming
-  - Intro to object oriented paradigm using Java as a basis
-- CS 330 :: Discrete Structures
-  - More Mathematically focused course on structures such as sets, graphs, etc.
-  - Basic Proof writing techniques
-- CS 331 :: Data Structures & Algorithms
-  - Programming data structures using Python as well as algorithm analysis
-  - Covered The following data structures:
-    - Array backed and Linked Lists
-    - Hashtable/Dictionary
-    - Stack/Queue
-    - Heap
-    - Binary Search Tree
-    - AVL Tree
-- CS 340 :: Programming Paradigms & Patterns
-  - Pure functional programming using Haskell
-  - Final project implementing an objective based search (knight's tour) and an adversarial search (nim)
 * Contact/Social Media
 - Email me at: mcardiff@hawk.iit.edu
 - Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
