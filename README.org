@@ -7,7 +7,7 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
 * Programming Languages
 - Python
 - C/C++
-- Cuda C (shhhh)
+- Cuda C
 - Mathematica (Wolfram Language)
 - Haskell
 - LaTeX
