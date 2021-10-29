@@ -1,6 +1,5 @@
 #+TITLE:Michael Cardiff
 #+AUTHOR:Michael Cardiff
-#+html: <p align="center"><img src="Profile.png" /></p>
 #+html: <p align="center"><img src="https://komarev.com/ghpvc/?username=mcardoff" /></p>
 * Me
 Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doing research in condensed matter and particle physics. For a look at my research, you can check out my [[https://github.com/mcardoff/Research][research repo]].
@@ -66,6 +65,8 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Book Used: Introduction to Quantum Mechanics by Griffiths
 - PHYS 413,414 :: Electromagnetism I,II
   - Book Used: Introduction to Electrodynamics by Griffiths
+- PHYS 427 :: Advanced Lab
+  - Lab topics with a focus on x-ray generation, detection, and their properties
 - PHYS 485 :: Physics Colloquium
   - Weekly talks from visiting professors
   - Reports would be required bi-weekly on certain talks
@@ -79,6 +80,13 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Second Quantization Formalism
   - Spinor Algebra & Group Theory
   - Books Used: Modern Quantum Mechanics by Sakurai, Quantum Mechanics with Basic Field Theory by Desai
+- PHYS 545 :: Particle Physics I
+  - Basic historical introduction to Particle Physics
+  - Special Relativity
+  - Symmetries of Particle Systems
+  - The Dirac Equation
+  - Quantum Electrodynamics
+  - Quantum Chromodynamics
 * Contact/Social Media
 - Email me at: mcardiff@hawk.iit.edu
 - Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
