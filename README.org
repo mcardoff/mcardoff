@@ -87,6 +87,7 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - The Dirac Equation
   - Quantum Electrodynamics
   - Quantum Chromodynamics
+  - Book Used: Introduction to Elementary Particles by Griffiths
 * Contact/Social Media
 - Email me at: mcardiff@hawk.iit.edu
 - Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
