@@ -68,6 +68,15 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Book Used: Introduction to Electrodynamics by Griffiths
 - PHYS 427 :: Advanced Lab
   - Lab topics with a focus on x-ray generation, detection, and their properties
+- PHYS 437 :: Solid State Physics
+  - Crystal Structures
+  - Reciprocal lattice
+  - Phonon modes
+  - Superconductivity
+- PHYS 440 :: Computational Physics
+  - Use the numerical methods learned in PHYS 240 to solve modern physics problems
+  - Including solving Schrodinger equation, Monte Carlo Integration, and random walks
+  - Final Project
 - PHYS 485 :: Physics Colloquium
   - Weekly talks from visiting professors
   - Reports would be required bi-weekly on certain talks
@@ -81,6 +90,11 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Second Quantization Formalism
   - Spinor Algebra & Group Theory
   - Books Used: Modern Quantum Mechanics by Sakurai, Quantum Mechanics with Basic Field Theory by Desai
+- PHYS 518 :: General Relativity
+  - Recap of the special theory of relativity using 4-vector notation
+  - Basic Differential geometry as it applies to GR
+  - Einstein Field Equations
+  - Book Used: General Relativity: An Introduction for Physicists by Hobson, Efstathiou, and Lasenby    
 - PHYS 545 :: Particle Physics I
   - Basic historical introduction to Particle Physics
   - Special Relativity
@@ -89,6 +103,16 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Quantum Electrodynamics
   - Quantum Chromodynamics
   - Book Used: Introduction to Elementary Particles by Griffiths
+- PHYS 546 :: Particle Physics II
+  - Continuation of PHYS 545
+  - Photon dynamics in QED
+  - Gluon Dynamics in QCD
+  - Parton Model
+- PHYS 553 :: Quantum Field Theory
+  - Classical Field Theory, the good the bad and the ugly
+  - Canonical Quantization, and why it fixes the bad and the ugly of CFT
+  - Symmetries in Field Theories
+  - Path Integrals
 * Contact/Social Media
 - Email me at: mcardiff@hawk.iit.edu
 - Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
