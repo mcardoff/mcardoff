@@ -12,6 +12,7 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
 - LaTeX
 - Mathematica (Wolfram Language)
 - Python
+- Swift/SwiftUI
 * Relevant Courses
 ** Computer Science
 - CS 105 :: Intro to Computer Programming
@@ -73,10 +74,11 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Reciprocal lattice
   - Phonon modes
   - Superconductivity
+  - Applications of Superconductivity to Quantum Computing System
 - PHYS 440 :: Computational Physics
   - Use the numerical methods learned in PHYS 240 to solve modern physics problems
-  - Including solving Schrodinger equation, Monte Carlo Integration, and random walks
-  - Final Project
+  - Including numerically solving Schrodinger equation, Monte Carlo Integration, and random walks
+  - Final Project : Use Machine Learning Methods to generate a Racing Line 
 - PHYS 485 :: Physics Colloquium
   - Weekly talks from visiting professors
   - Reports would be required bi-weekly on certain talks
@@ -94,6 +96,8 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Recap of the special theory of relativity using 4-vector notation
   - Basic Differential geometry as it applies to GR
   - Einstein Field Equations
+  - Basic Cosmology
+  - Final Presentation on a basic model of Gravitons
   - Book Used: General Relativity: An Introduction for Physicists by Hobson, Efstathiou, and Lasenby    
 - PHYS 545 :: Particle Physics I
   - Basic historical introduction to Particle Physics
@@ -107,7 +111,8 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Continuation of PHYS 545
   - Photon dynamics in QED
   - Gluon Dynamics in QCD
-  - Parton Model
+  - Parton Model in QCD
+  - Renormalization and Loop corrections
 - PHYS 553 :: Quantum Field Theory
   - Classical Field Theory, the good the bad and the ugly
   - Canonical Quantization, and why it fixes the bad and the ugly of CFT
