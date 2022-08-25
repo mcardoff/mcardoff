@@ -14,7 +14,8 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
 - Python
 - Swift/SwiftUI
 * Relevant Courses
-** Computer Science
+** Courses Taken During Undergraduate Program at Illinois Tech
+*** Computer Science
 - CS 105 :: Intro to Computer Programming
   - Basic Intro to Programming using C++
 - CS 201 :: Accelerated Intro to Computer Programming
@@ -34,7 +35,7 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
 - CS 340 :: Programming Paradigms & Patterns
   - Pure functional programming using Haskell
   - Final project implementing an objective based search (knight's tour) and an adversarial search (nim)
-** Physics
+*** Physics
 - PHYS 123, 221, 223 :: General Physics 1, 2, and 3
   - Intro to basic Vector & Calculus based physics
   - Labs teaching basic circuit building and data taking techniques
@@ -118,8 +119,9 @@ Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doin
   - Canonical Quantization, and why it fixes the bad and the ugly of CFT
   - Symmetries in Field Theories
   - Path Integrals
+** Courses Taking During Graduate Program at Brandeis
+*** Physics
+
 * Contact/Social Media
 - Email me at: mcardiff@hawk.iit.edu
 - Follow my twitter: [[https://twitter.com/mcardoff][@mcardoff]]
-
-
