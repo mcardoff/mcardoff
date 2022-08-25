@@ -2,8 +2,11 @@
 #+AUTHOR:Michael Cardiff
 #+html: <p align="center"><img src="https://komarev.com/ghpvc/?username=mcardoff" /></p>
 * Me
-Hi! I am Michael, a 21 year old Physics student at Illinois Tech, currently doing research in condensed matter and particle physics. For a look at my research, you can check out my [[https://github.com/mcardoff/Research][research repo]].
+Hi! I am Michael, a 22 year old Physics graduate student at Brandeis University. I completed my undergraduate at Illinois Tech. I am in my first year as a graduate student, but I am hoping to work in Experimental Particle Physics.
+
+For a look at my previous research, you can check out my [[https://github.com/mcardoff/Research][research repo]].
 * Programming Languages
+I am fairly familiar with all of the following programming languages to some extent, in no particular order
 - C/C++
 - Cuda C
 - Emacs/elisp
