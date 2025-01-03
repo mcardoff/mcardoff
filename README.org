@@ -2,7 +2,7 @@
 #+AUTHOR:Michael Cardiff
 #+html: <p align="center"><img src="./me.jpg" /></p>
 * Me
-Hi! I am Michael, a 22 year old Physics graduate student at Brandeis University. I completed my undergraduate at Illinois Tech. I am in my first year as a graduate student, but I am hoping to work in Experimental Particle Physics.
+Hi! I am Michael, a 24 year old Physics graduate student at Brandeis University. I completed my undergraduate at Illinois Tech. I am in my first year as a graduate student, but I am hoping to work in Experimental Particle Physics.
 
 For a look at my previous research, you can check out my [[https://github.com/mcardoff/Research][research repo]].
 * Programming Languages
@@ -124,7 +124,61 @@ I am fairly familiar with all of the following programming languages to some ext
   - Path Integrals
 ** Courses Taking During Graduate Program at Brandeis
 *** Physics
-
+- PHYS 161a :: Electromagnetic Theory I
+  - Electrostatics, Maxwell's squations
+  - Focus on Green function formalism
+  - Introductory functional analysis
+  - Books used :: Zangwill's Modern Electrodynamics & Jackson's Classical Electrodynamics
+- PHYS 162a,b :: Quantum Mechanics I,II
+  - Introductory quantum mechanics: Schrodinger Equation through Fermi's Golden Rule
+  - Path integral formulation
+  - Perturbation theory
+  - Book used :: Sakurai Third Edition
+- PHYS 163a :: Statistical Mechanics & Thermodynamics
+  - Thermal properties of matter
+  - Statistical Theory of fluctuations
+  - Derivation of statistical mechanics from thermodynamics
+  - Book used :: Kardar's Statistical Physics of Particles
+- PHYS 164a :: First Year Tutorial I
+  - Introductory course taken in first year
+  - Prep for qualification exams
+  - Review of fermi problems, physical reasoning
+  - Thinking in terms of dimensional analysis
+- PHYS 167b :: Particle Physics
+  - QED, QCD, Electroweak interactions
+  - Feynman diagrams, trace and current formalisms
+  - Book used :: Thomson's Modern Particle Physics
+- PHYS 202a :: Quantum Field Theory
+  - Introduction to QFT formalisms
+  - Scalar-like particles
+  - Focus on derivation from principles of classical field theory
+  - Second Quantization, Path integral
+  - Renormalization
+  - Phase Transitions & Gauge Theories
+  - Book used :: Donoghue & Sorbo's A Prelude to Quantum Field Theory
+- PHYS 204a :: Condensed Matter II
+  - Quantum Information, thermalization
+  - SYK Model
+  - Ergodicity principle
+- PHYS 280a :: Reading Course
+  - Reading course used as research experience during First year
+  - Statistical review
+  - Review of modern particle physics and related software
+* Teaching Experience
+** During Undergrad at Illinois Tech
+- PHYS 221,223 :: General Physics II,III
+  - Graded for 3 semesters total
+  - Graded Weekly homeworks and midterm exams
+  - Gave consistent feedback to professor
+** During Graduate at Brandeis
+- PHYS 19a,b :: Introductory Physics Lab I,II
+  - Taught for 3 semesters, lead 1-2 lab sessions per week
+  - Lead TA for one semester
+    - Met with professor a week early to go over lab
+    - Personally updated lab manuals
+    - Provided teaching slides for other TAs
+    - Provided Template documents for students
+  - Mechanics and statistical principles (a)
+  - Circuits, introductory electromagnetism (b)
 * Contact/Social Media
-- Email me at: mcardiff@brandeis.edu or mcardiff@brandeis.edu
-- Follow my twitter: [[https://twitter.com/mcpardiff][@mpcardiff]]
+- Email me at: mcardiff [at] brandeis.edu, mcardiff [at] slac.stanford.edu
