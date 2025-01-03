@@ -1,6 +1,5 @@
 #+TITLE:Michael Cardiff
 #+AUTHOR:Michael Cardiff
-#+html: <p align="center"><img src="./me.jpg" /></p>
 * Me
 Hi! I am Michael, a 24 year old Physics graduate student at Brandeis University. I completed my undergraduate at Illinois Tech. I am in my first year as a graduate student, but I am hoping to work in Experimental Particle Physics.
 
